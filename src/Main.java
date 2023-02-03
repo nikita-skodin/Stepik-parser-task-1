@@ -21,7 +21,5 @@ public class Main {
                     arr) {
                 System.out.println(i);
             }
-
-            String test = "git";
         }
     }
